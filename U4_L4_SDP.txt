@@ -1,0 +1,3 @@
+1. when there is an opening parentheses or bracket
+2. when there is a corresponding closing bracket or parentheses
+3. Has more opening curly brackets than closing curly brackets or more closing brackets than opening brackets
